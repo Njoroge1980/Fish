@@ -5,3 +5,11 @@
 .unimportant {
   color:blue;
 }
+
+.fish1 {
+  float: left;
+}
+
+.fish2 {
+  float:right;
+}
